@@ -95,9 +95,9 @@ The tool generates various outputs, including:
 - Port scanning is limited to basic TCP connect scans.
 - Deep packet inspection is only available when analyzing PCAP files.
 
-## 📝 License
+## 📝 Open source
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is open source.
 
 ## 🤝 Contributing
 
